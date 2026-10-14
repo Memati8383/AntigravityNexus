@@ -1,0 +1,14 @@
+# Build targets
+src-tauri/target/
+target/
+
+# Node
+node_modules/
+
+# OS / IDE
+.DS_Store
+Thumbs.db
+*.tmp
+*.log
+.vscode/
+.idea/
