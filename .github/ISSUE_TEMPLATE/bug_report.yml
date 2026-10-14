@@ -1,0 +1,34 @@
+name: Bug Raporu
+description: Antigravity Nexus ile ilgili bir hata veya sorun bildirin
+title: "[BUG]: "
+labels: ["bug"]
+body:
+  - type: markdown
+    attributes:
+      value: Sorunu en kısa sürede çözebilmemiz için lütfen aşağıdaki alanları doldurun.
+  - type: textarea
+    id: what-happened
+    attributes:
+      label: Ne oldu?
+      description: Karşılaştığınız hatayı detaylı açıklayın.
+      placeholder: Butona bastığımda dosya oluşturulamadı...
+    validations:
+      required: true
+  - type: textarea
+    id: steps
+    attributes:
+      label: Hatayı Tekrarlama Adımları
+      description: Sorunun nasıl meydana geldiğini adım adım yazın.
+      placeholder: |
+        1. Uygulamayı çalıştırdım
+        2. Aktifleştir butonuna tıkladım
+        3. ...
+    validations:
+      required: true
+  - type: input
+    id: os
+    attributes:
+      label: Windows Sürümü
+      placeholder: Windows 11 Pro 23H2 / 24H2
+    validations:
+      required: false

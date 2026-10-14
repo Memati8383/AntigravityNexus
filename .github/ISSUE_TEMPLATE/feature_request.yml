@@ -1,0 +1,20 @@
+name: Özellik İsteği
+description: Antigravity Nexus için yeni bir özellik veya geliştirme önerin
+title: "[ÖNERİ]: "
+labels: ["enhancement"]
+body:
+  - type: textarea
+    id: idea
+    attributes:
+      label: Özellik Önerisi
+      description: Eklenmesini istediğiniz özelliği veya değişikliği açıklayın.
+      placeholder: Kendi özel prompt dosyamızı seçebileceğimiz bir buton eklenebilir...
+    validations:
+      required: true
+  - type: textarea
+    id: why
+    attributes:
+      label: Neden Yararlı Olur?
+      description: Bu özelliğin kullanıcılara sağlayacağı faydayı anlatın.
+    validations:
+      required: false

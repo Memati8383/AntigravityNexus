@@ -6,11 +6,12 @@
   <h1 align="center">⚡ ANTIGRAVITY NEXUS</h1>
   <p align="center"><strong>Modern, Yerel ve Ultra Hafif IDE Kontrol & Senkronizasyon Merkezi</strong></p>
   <p align="center">
+    <a href="https://github.com/Memati8383/AntigravityNexus/releases/latest"><img src="https://img.shields.io/github/v/release/Memati8383/AntigravityNexus?style=for-the-badge&logo=github&color=blue" alt="Latest Release" /></a>
+    <a href="https://github.com/Memati8383/AntigravityNexus/blob/main/LICENSE"><img src="https://img.shields.io/github/license/Memati8383/AntigravityNexus?style=for-the-badge&color=green" alt="MIT License" /></a>
     <a href="https://www.rust-lang.org/"><img src="https://img.shields.io/badge/Rust-1.99-orange?style=for-the-badge&logo=rust&logoColor=white" alt="Rust 1.99" /></a>
     <a href="https://tauri.app/"><img src="https://img.shields.io/badge/Tauri-v2-blue?style=for-the-badge&logo=tauri&logoColor=white" alt="Tauri v2" /></a>
     <a href="#"><img src="https://img.shields.io/badge/Windows_11-Fluent_Acrylic-0078d4?style=for-the-badge&logo=windows&logoColor=white" alt="Windows 11 Fluent" /></a>
-    <a href="#"><img src="https://img.shields.io/badge/Architecture-Standalone_EXE-emerald?style=for-the-badge&logo=windows-terminal&logoColor=white" alt="Standalone" /></a>
-    <a href="#"><img src="https://img.shields.io/badge/Status-Verified_&_Tested-success?style=for-the-badge" alt="Status" /></a>
+    <a href="https://github.com/Memati8383/AntigravityNexus/stargazers"><img src="https://img.shields.io/github/stars/Memati8383/AntigravityNexus?style=for-the-badge&logo=apachespark&color=gold" alt="GitHub Stars" /></a>
   </p>
 </p>
 
